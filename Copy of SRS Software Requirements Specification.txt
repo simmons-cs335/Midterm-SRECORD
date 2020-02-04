@@ -1,0 +1,77 @@
+﻿Software Requirements Specification
+Introduction
+Purpose
+State why this product is being built. What need does it fulfill?
+        To keep track, store information of students and their class
+
+
+Intended Audience
+State who in your organization should use this document. This typically includes software engineers, test engineers and project managers, but may also include stakeholders in other organizations, such as leadership teams, sales, marketing and data center operations.
+        
+        Software engineer
+        Test engineer
+        Project manager 
+        Data center operations 
+        Resistra 
+        Administrative 
+
+
+Intended Use
+State how the audience should interpret and use what is outlined herein. For example: Build a prototype that addresses 50% of the users’ needs so it can be evaluated for suitability before building the final, fully functional deliverable.
+
+
+Software engineers: for future development and debugging 
+        Test engineers: provides the expectation to find error or bugs 
+        Project manager: allocate resources efficiently, manage the process
+        Data center operations: keep tracks and mainly utilizes
+        Registrar and other administratives: for input and entry
+Scope
+Describe the software product to be built; include how it addresses expected benefits, objectives, and goals. This should relate to overall business goals, especially if teams outside of development will have access to this SRS.
+        Software must contain all the important data and be secured from data breach. Users would be able to search, sort and access the data based on their name, ID. Students can only view their information and class schedule without making any unapproved change. Administrative staff and registras can modify the data. The system’s data must be able to easily develop in the future without losing any data accidentally. 
+Definitions and Acronyms
+Explain any commonly used acronyms and define any relevant terms. Define what success means (looks like), as well as what risk means.  
+
+
+        Success: the software satisfies all the requirement in the scope and maintainability 
+        Risk: data gets lost, software is failed to maintain, unauthorized access and modification
+Overall Description 
+
+
+User Needs
+Define the users’ expectations and needs addressed by this software product. 
+
+
+        Staffs and students need a solid, secure and easy system to record, modify and search for their information and schedule. 
+Assumptions and Dependencies
+Explains factors that impact your ability to fulfill the requirements outlined herein. 
+Note any assumptions being made that may have a negative impact on this deliverable
+Finally, you should note if your project is dependent on any external factors. This might include software components you are reusing from another project.
+
+
+
+
+        Dependencies: difference in term of roles of users can impact the software because different level of role would impact on how the software functions. Moreover, it also depends heavily on the ability of providing strong storage because it contains thousands of students’ information. 
+        Assumptions: assume that users are only from Simmons. Only few access at the same time. The software engineering team is committed to keep the data secure. Simmons management can be able to support financially for the enormous storage and server
+System Features and Requirements
+
+
+Functional Requirements
+Describe what is absolutely essential for the product to function. 
+
+
+        The exact and precise information (ID, name, username). 
+Interface Requirements
+Describe how the product interfaces with the user or other components and systems. For example: A web-based interface supports individual user interaction; an RPC layer supports intranet system requests; a web service XML API is used to fulfill external intersystem requests. 
+        A web-based that can support remote user’s interaction. 
+System Features
+Describe the major features of the product (e.g. uses relational database, hive, logger, journal, distributed architecture, AI); Use as much detail as necessary to explain each feature and supplement with graphics where appropriate. 
+        Student personal graphic upload: to gather physical appearance of the students 
+        Relational database: to contain an additional database 
+        AI: to interact automatically 
+        Error announcement: to detect error
+Non-functional Requirements
+Describe the less tangible but still important requirements, such as performance and security.
+ 
+        Print: allow print 
+        External Simmons related link: to access other Simmons sites 
+        Mail server: to interact with the registrar office easier
