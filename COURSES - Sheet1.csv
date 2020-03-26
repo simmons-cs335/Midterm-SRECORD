@@ -1,0 +1,91 @@
+COURSE_ID,START_TIME,END_TIME,COURSE_NAME,DAYS,SEMESTER,INSTRUCTOR,CAPACITY
+ACC101,11:00,12:20,Introduction to Money Counting ,"Tuesday, Thursday",Fall 2016,Emily Doe,23
+ACC201,12:00,13:20,Money Saving,"Tuesday, Thursday",Fall 2016,Josephine Vuu,24
+ACC301,13:00,14:20,Interest Rate,"Tuesday, Thursday",Fall 2016,Scarlett Luigini,30
+ART101,8:00,9:20,Introduction to Stickman,"Monday, Wednesday",Fall 2016,Monet Gogh,20
+ART201,9:00,10:20,Intermediate Stickman,"Monday, Wednesday",Fall 2016,Monet Gogh,25
+ART301,10:00,11:20,Artisan Stickman,"Monday, Wednesday",Fall 2016,Van Pablo,21
+BIO101,15:00,16:20,Cell Anatomy,"Wednesday, Friday",Fall 2016,Mendel Pasteur,25
+BIO201,16:00,17:20,Human Anatomy ,"Wednesday, Friday",Fall 2016,Louis Darwin,25
+BIO301,17:00,18:20,Alien Anatomy,"Wednesday, Friday",Fall 2016,Gregor Carson,24
+CHE101,8:00,10:50,Periodic Table,Friday,Fall 2016,Marie Piere,23
+CHE201,10:00,12:50,Bonding,Friday,Fall 2016,Mendel Pasteur,30
+CHE301,12:00,14:50,Nuclear,Friday,Fall 2016,Dalton Curie,30
+COM101,11:00,12:20,Introduction to Socialization,"Monday, Wednesday",Fall 2016,Kennedy Thomas,25
+COM201,12:00,13:20,Introduction to Extraversion,"Monday, Wednesday",Fall 2016,Barrack Quincy,24
+COM301,13:00,14:20,Introduction to Preach,"Monday, Wednesday",Fall 2016,John King,26
+CS101,8:00,9:20,Introduction to Computer,"Tuesday, Thursday",Fall 2016,Bill Zuckerberg,27
+CS201,9:00,10:20,Intermediate to Computer,"Tuesday, Thursday",Fall 2016,Steve Gate,28
+CS301,10:00,11:20,Computer Overclocking,"Tuesday, Thursday",Fall 2016,Mark Job,29
+ECO101,14:00,16:50,Good Exchange,Friday,Fall 2016,Karl Smith,20
+ECO201,16:00,18:50,Good Production,Friday,Fall 2016,Adam Max,21
+ECO301,7:00,9:50,Money Making,Friday,Fall 2016,Mark Nash,22
+ENG101,14:00,15:20,Alphabet,"Monday, Wednesday",Fall 2016,William Austen,25
+ENG201,15:00,16:20,Word,"Monday, Wednesday",Fall 2016,Scott Shakespeare,25
+ENG301,16:00,17:20,Paragraph,"Monday, Wednesday",Fall 2016,Jane Fitzgerald ,26
+FRN101,14:00,15:20,Bonjour,"Tuesday, Thursday",Fall 2016,Joan Descartes,26
+FRN201,15:00,16:20,Comment allez vous,"Tuesday, Thursday",Fall 2016,Louis Robespierre,24
+FRN301,16:00,17:20,Vive La France,"Tuesday, Thursday",Fall 2016,Marie Dumas,24
+HIS101,8:00,9:20,Pre Cavemen,"Monday, Friday",Fall 2016,Ibn Herodotus,25
+HIS201,9:00,10:20,Cavemen,"Monday, Friday",Fall 2016,Anna Racki,29
+HIS301,10:00,11:20,Post Cavemen,"Monday, Friday",Fall 2016,Alexis Xenophon,30
+MSC101,8:00,10:50,Do Re Mi,Tuesday,Fall 2016,Wolfgang Bach,25
+MSC201,9:00,11:50,Introduction to Vocalization ,Tuesday,Fall 2016,Ludwig Brahms,26
+MSC301,10:00,12:50,Bohemian Rhapsody,Tuesday,Fall 2016,Maurice Vivaldi,30
+MTH101,8:00,9:20,Addition,"Tuesday, Friday",Fall 2016,Carl Boolean,28
+MTH201,9:00,10:20,Pythagorean,"Tuesday, Friday",Fall 2016,Ada Gauss,27
+MTH301,10:00,11:20,Fibonacci,"Tuesday, Friday",Fall 2016,Omar Pascal,21
+PHY101,8:00,10:50,Matters ,Wednesday,Fall 2016,Nikola Einstein,25
+PHY201,10:00,12:50,Antimatters,Wednesday,Fall 2016,Albert Hawking,26
+PHY301,12:00,14:50,Darkmatters,Wednesday,Fall 2016,Stephen Tesla,27
+PLS101,11:00,12:20,What is Love,"Wednesday, Friday",Fall 2016,Vladimir Plato,25
+PLS201,12:00,13:20,What is Life,"Wednesday, Friday",Fall 2016,John Confucius,25
+PLS301,13:00,14:20,What Makes Us Human Human,"Wednesday, Friday",Fall 2016,Leo Kant,26
+PSY101,14:00,16:50,Human Motive,Thursday,Fall 2016,Ed Bundy,28
+PSY201,13:00,15:50,Mastermind,Thursday,Fall 2016,Jack Manson,29
+PSY301,15:00,17:50,Telepathy,Thursday,Fall 2016,Richard Gein,30
+ACC110,8:00,9:30,Checkbooks,"Tuesday, Thursday",Spring 2017,Emily Doe,25
+ACC210,10:00,11:30,Bank Accounts,"Tuesday, Thursday",Spring 2017,Scarlett Luigini,25
+ACC310,12:00,13:30,Bankcrupsy,"Tuesday, Thursday",Spring 2017,Josephine Vuu,15
+ART210,11:00,14:00,Sculpting Stickman,Monday,Spring 2017,Van Pablo,20
+ART232,11:00,14:00,Photography of Stickman II,Wednesday,Spring 2017,Monet Gogh,15
+ART390,18:00,20:30,Special Topics in Stickman,Wednesday,Spring 2017,Monet Gogh,3
+BIO110,8:00,9:30,Photosynthesis,"Monday, Wednesday",Spring 2017,Mendel Pasteur,25
+BIO210,10:00,11:30,Microbiology,"Monday, Wednesday",Spring 2017,Louis Darwin,22
+BIO310,12:00,13:30,Deoxyribonucleic acid,"Monday, Wednesday",Spring 2017,Gregor Carson,20
+CHE110,14:00,15:30,Dihydrogen monoxide,"Monday, Wednesday",Spring 2017,Marie Piere,25
+CHE210,16:00,17:30,Sodium bicarbonate,"Monday, Wednesday",Spring 2017,Dalton Curie,22
+CHE310,18:00,19:30,Biochemistry,"Monday, Wednesday",Spring 2017,Mendel Pasteur,20
+COM110,11:00,13:50,Small Groups,Monday,Spring 2017,Kennedy Thomas,25
+COM210,11:00,13:50,Presentations,Wednesday,Spring 2017,Barrack Quincy,25
+COM310,11:00,13:50,Social Media,Friday,Spring 2017,John King,25
+CS110,17:30,20:30,Objects,Monday,Spring 2017,Bill Zuckerberg,25
+CS210,17:30,21:00,Data Structures,Wednesday,Spring 2017,Steve Gate,25
+CS310,17:30,21:30,Applications,Friday,Spring 2017,Mark Job,20
+ECO110,14:00,15:30,Small Business,"Tuesday, Thursday",Spring 2017,Karl Smith,25
+ECO210,16:00,17:30,Corporation,"Tuesday, Thursday",Spring 2017,Adam Max,25
+ECO310,18:00,19:30,World Domination,"Tuesday, Thursday",Spring 2017,Mark Nash,15
+ENG390,18:00,20:30,Creative writing III:  Novels,Thursday,Spring 2017,William Austen,7
+ENG165,9:30,11:00,Creative writing I: One Sentence,"Tuesday, Thursday",Spring 2017,Jane Fitzgerald ,25
+ENG232,14:30,16:00,Creative writing II: Short Stories,"Monday, Friday",Spring 2017,Scott Shakespeare,15
+FRN110,14:00,15:20,Quoi de neuf?,Wednesday,Spring 2017,Joan Descartes,26
+FRN210,16:00,17:20,Qui etes vous?,Monday,Spring 2017,Louis Robespierre,20
+FRN390,18:00,20:30,Sujets speciaux,Monday,Spring 2017,Joan Descartes,2
+HIS110,11:00,12:20,History of Stickman,Monday,Spring 2017,Anna Racki,25
+HIS232,14:30,16:00,Contemporary Stickman,Wednesday,Spring 2017,Anna Racki,15
+HIS390,18:00,20:30,Special Topics post Caveman,Wednesday,Spring 2017,Alexis Xenophon,7
+MSC210,11:00,14:00,Trebble Clef,Tuesday,Spring 2017,Ludwig Brahms,20
+MSC232,11:00,14:00,Instruments II,Thursday,Spring 2017,Maurice Vivaldi,15
+MSC390,18:00,20:30,Special Topics in Music,Friday,Spring 2017,Maurice Vivaldi,2
+MTH110,8:00,9:30,Multiplication,"Monday, Wednesday",Spring 2017,Carl Boolean,25
+MTH210,8:00,9:30,Theorums,"Tuesday, Thursday",Spring 2017,Ada Gauss,20
+MTH310,20:00,21:30,Calculating the Universe,"Tuesday, Thursday",Spring 2017,Omar Pascal,15
+PHY110,10:00,12:30,Momentum,"Tuesday, Thursday",Spring 2017,Nikola Einstein,25
+PHY210,13:00,15:00,Gravity,"Tuesday, Thursday",Spring 2017,Albert Hawking,20
+PHY310,15:30,18:00,Lightspeed,"Tuesday, Thursday",Spring 2017,Stephen Tesla,15
+PLS110,18:00,20:00,Ethics,"Monday, Wednesday",Spring 2017,Vladimir Plato,15
+PLS210,18:00,20:00,Religion,"Monday, Wednesday",Spring 2017,John Confucius,15
+PLS310,18:00,20:00,Existential Crisis,"Monday, Wednesday",Spring 2017,Leo Kant,15
+PSY110,12:00,13:20,Childhood,"Monday, Wednesday",Spring 2017,Ed Bundy,20
+PSY210,13:30,14:50,Adulthood,"Monday, Wednesday",Spring 2017,Jack Manson,20
+PSY310,15:00,16:20,Self Diagnosis,"Monday, Wednesday",Spring 2017,Richard Gein,20

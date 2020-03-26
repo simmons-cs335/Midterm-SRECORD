@@ -1,0 +1,71 @@
+Student_ID,Semester,Last_Name,First_Name,Course_1,Start_time1,End_time1,Days1,Grade_1,Absences_1,Course_2,Start_time2,End_time2,Days2,Grade_2,Absences_2,Course_3,Start_time3,End_time3,Days3,Grade_3,Absences_3,Course_4,Start_time4,End_time4,Days4,Grade_4,Absences_4,Grade_Overall
+001,Fall 2016,Balfor,Leonard,ART101,8:00,9:20,"Monday, Wednesday",4,P,ART301,10:00,11:20,"Monday, Wednesday",3.3,P,BIO201,16:00,17:20,"Wednesday, Friday",4,P,ACC101,11:00,12:20,"Tuesday, Thursday",3.7,P,3.75
+001,Spring 2017,Balfor,Leonard,ENG165,9:30,11:00,"Tuesday, Thursday",3.7,P,ART210,11:00,14:00,Monday,3,P,ART232,11:00,14:00,Wednesday,4,P,HIS232,14:30,16:00,Wednesday,3.7,P,3.60
+002,Fall 2016,Egbert,Stan,ACC201,12:00,13:20,"Tuesdays, Thursday",4,P,BIO301,17:00,18:20,"Wednesday, Friday",3.7,P,CHE301,12:00,14:50,Friday,4,P,ENG301,16:00,17:20,"Monday, Wednesday",3,P,3.68
+002,Spring 2017,Egbert,Stan,FRN110,14:00,15:20,Wednesday,3.3,P,BIO310,12:00,13:30,"Monday, Wednesday",3,P,CHE310,18:00,19:30,"Monday, Wednesday",3,P,BIO210,10:00,11:30,"Monday, Wednesday",3.7,P,3.25
+003,Fall 2016,Meyer,Britney,ART301,15:00,16:20,"Wednesday, Friday",2,P,ACC201,12:00,13:20,"Tuesday, Thursday",2.7,P,ENG101,14:00,15:20,"Monday, Wednesday",3,P,FRN301,16:00,17:20,"Tuesday, Thursday",3.3,P,2.75
+003,Spring 2017,Meyer,Britney,ART390,18:00,20:30,Wednesday,3.3,P,FRN390,18:00,20:30,Monday,3.3,P,HIS110,11:00,12:20,Monday,3.7,P,HIS232,14:30,16:00,Wednesday,3.3,P,3.40
+004,Fall 2016,English,Emily,PSY101,14:00,16:50,Thursday,3,P,ECO101,14:00,16:50,Friday,4,P,ECO201,16:00,18:50,Friday,1,P,MSC101,8:00,10:50,Tuesday,4,P,3.00
+004,Spring 2017,English,Emily,PSY110,12:00,13:20,"Monday, Wednesday",3.7,P,PSY210,13:30,14:50,"Monday, Wednesday",3.7,P,CHE210,16:00,17:30,"Monday, Wednesday",4,P,BIO110,8:00,9:30,"Monday, Wednesday",4,P,3.85
+005,Fall 2016,Smith,Dan,HIS101,8:00,9:20,"Monday, Friday",4,P,ART301,10:00,11:20,"Monday, Wednesday",3.3,P,FRN101,14:00,15:20,"Tuesday, Thursday",4,P,MSC201,9:00,11:50,Tuesday,3.7,P,3.75
+005,Spring 2017,Smith,Dan,ENG165,9:30,11:00,"Tuesday, Thursday",4,P,ART210,11:00,14:00,Monday,4,P,ART232,11:00,14:00,Wednesday,4,P,HIS232,14:30,16:00,Wednesday,4,P,4.00
+006,Fall 2016,Kay,Carly,MTH201,9:00,10:20,"Tuesday, Friday",4,P,COM101,11:00,12:20,"Monday, Wednesday",3,P,PLS301,13:00,14:20,"Wednesday, Friday",3.7,P,PSY101,14:00,16:50,Thursday,2.7,P,3.35
+006,Spring 2017,Kay,Carly,PSY110,12:00,13:20,"Monday, Wednesday",2.7,P,PSY210,13:30,14:50,"Monday, Wednesday",2.7,P,PLS210,18:00,20:00,"Monday, Wednesday",3,P,ENG110,9:30,11:00,"Tuesday, Thursday",2.3,P,2.68
+007,Fall 2016,Osgood,Manny,CS201,8:00,9:20,"Tuesday, Thursday",3.7,P,PHY201,10:00,12:50,Wednesday,4,P,BIO101,15:00,16:20,"Wednesday, Friday",3,P,BIO301,17:00,18:20,"Wednesday, Friday",2.3,P,3.25
+007,Spring 2017,Osgood,Manny,CS110,17:30,20:30,Monday,3.3,P,CS210,17:30,21:00,Wednesday,3.3,P,MTH110,8:00,9:30,"Monday, Wednesday",3.3,P,COM110,11:00,13:50,Monday,3,P,3.23
+008,Fall 2016,Holzmann,Peter,CS301,10:00,11:20,"Tuesday, Thursday",3,P,ACC201,12:00,13:20,"Tuesday, Thursday",2,P,ECO101,14:00,16:50,Friday,3.3,P,BIO301,17:00,18:20,"Wednesday, Friday",4,P,3.08
+008,Spring 2017,Holzmann,Peter,CS110,17:30,20:30,Monday,1.7,P,CS210,17:30,21:00,Wednesday,1.7,P,MTH110,8:00,9:30,"Monday, Wednesday",1.7,P,ENG110,9:30,11:00,"Tuesday, Thursday",2,P,1.78
+009,Fall 2016,Collins,Carina,ECO201,16:00,18:50,Friday,3.3,P,FRN101,14:00,15:20,"Tuesday, Thursday",3,P,PLS301,13:00,14:20,"Wednesday, Friday",4,P,CHE201,10:00,12:50,Friday,4,P,3.58
+009,Spring 2017,Collins,Carina,ACC110,8:00,9:30,"Tuesdays, Thursday",2.7,P,ACC210,10:00,11:30,"Tuesday, Thursday",2.7,P,ECO110,14:00,15:30,"Tuesday, Thursday",3,P,ECO210,16:00,17:30,"Tuesday, Thursday",3,P,2.85
+010,Fall 2016,Deacons,Henrietta,MTH201,9:00,10:20,"Tuesday, Friday",3,P,PLS101,11:00,12:20,"Wednesday, Friday",4,P,COM301,13:00,14:20,"Monday, Wednesday",2,P,HIS301,10:00,11:20,"Monday, Friday",3,P,3.00
+010,Spring 2017,Deacons,Henrietta,PLS210,18:00,20:00,"Monday, Wednesday",3,P,PSY310,15:00,16:20,"Monday, Wednesday",3,P,PSY210,13:30,14:50,"Monday, Wednesday",3,P,ENG390,18:00,20:30,Thursday,3,P,3.00
+011,Fall 2016,Johnson,Jimothy,ECO301,7:00,9:50,Friday,2.7,P,ACC301,13:00,14:20,"Tuesday, Thursday",2.7,P,FRN201,15:00,16:20,"Tuesday, Thursday",3,P,ENG301,16:00,17:20,"Monday, Wednesday",3,P,2.85
+011,Spring 2017,Johnson,Jimothy,FRN210,16:00,17:20,Monday,2.7,P,ECO310,18:00,19:30,"Tuesday, Thursday",2.7,P,ACC310,12:00,13:30,"Tuesday, Thursday",2.7,P,MTH110,8:00,9:30,"Monday, Wednesday",2.3,P,2.60
+012,Fall 2016,Williams,Rain,HIS301,10:00,11:20,"Monday, Friday",3,P,FRN201,15:00,16:20,"Tuesday, Thursday",3.3,A,ENG301,16:00,17:20,"Monday, Wednesday",3,P,ART101,8:00,9:20,"Monday, Wednesday",4,P,3.33
+012,Spring 2017,Williams,Rain,HIS390,18:00,20:30,Wednesday,3,P,ENG390,18:00,20:30,Thursday,3.3,P,FRN210,16:00,17:20,Monday,3.3,P,HIS232,14:30,16:00,Wednesday,3.3,P,3.23
+013,Fall 2016,Davis,Miriam,CHE101,8:00,10:50,Friday,3.7,P,COM301,13:00,14:20,"Monday, Wednesday",3.7,P,ENG301,16:00,17:20,"Monday, Wednesday",4,P,FRN201,15:00,16:20,"Tuesday, Thursday",4,P,3.85
+013,Spring 2017,Davis,Miriam,BIO110,8:00,9:30,"Monday, Wednesday",4,P,BIO210,10:00,11:30,"Monday, Wednesday",4,P,CHE110,14:00,15:30,"Monday, Wednesday",4,P,CHE210,16:00,17:30,"Monday, Wednesday",3.3,P,3.83
+014,Fall 2016,Miller,Noah,CHE201,10:00,12:50,Friday,2.7,P,ENG201,15:00,16:20,"Monday, Wednesday",3,P,PSY301,15:00,17:50,Thursday,3,P,BIO301,17:00,18:20,"Wednesday, Friday",3,P,2.93
+014,Spring 2017,Miller,Noah,PSY310,15:00,16:20,"Monday, Wednesday",3,P,BIO310,12:00,13:30,"Monday, Wednesday",3,P,CHE310,18:00,19:30,"Monday, Wednesday",3,P,MSC210,11:00,14:00,Tuesday,2.7,P,2.93
+015,Fall 2016,Taylor,Eleonora,PHY101,8:00,10:50,Wednesday,1,P,CHE101,8:00,10:50,Friday,1,P,FRN101,14:00,15:20,"Tuesday, Thursday",2,P,BIO101,15:00,16:20,"Wednesday, Friday",0,A,1.00
+015,Spring 2017,Taylor,Eleonora,PHY110,10:00,12:30,"Tuesday, Thursday",1.3,P,PHY210,13:00,15:00,"Tuesday, Thursday",1.3,P,MTH110,8:00,9:30,"Monday, Wednesday",1.3,P,MTH210,8:00,9:30,"Tuesday, Thursday",1.7,P,1.40
+016,Fall 2016,Tobin,Ruth,ECO301,7:00,9:50,Friday,4,P,MTH301,10:00,11:20,"Tuesday, Friday",4,P,PLS301,13:00,14:20,"Wednesday, Friday",4,P,ECO201,16:00,18:50,Friday,4,P,4.00
+016,Spring 2017,Tobin,Ruth,ECO310,18:00,19:30,"Tuesday, Thursday",4,P,ACC310,12:00,13:30,"Tuesday, Thursday",4,P,MTH310,20:00,21:30,"Tuesday, Thursday",4,P,ACC210,10:00,11:30,"Tuesday, Thursday",4,P,4.00
+017,Fall 2016,Forbes,Merida,CHE101,8:00,10:50,Friday,0,P,COM201,12:00,13:20,"Monday, Wednesday",2,A,ENG201,15:00,16:20,"Monday, Wednesday",1.7,A,FRN101,14:00,15:20,"Tuesday, Thursday",3,P,1.68
+017,Spring 2017,Forbes,Merida,ENG165,9:30,11:00,"Tuesday, Thursday",1.7,P,ENG232,14:30,16:00,"Monday, Friday",2,P,FRN110,14:00,15:20,Wednesday,1.3,P,ART210,11:00,14:00,Monday,1.7,P,1.68
+018,Fall 2016,Evans,Christopher,ART201,9:00,10:20,"Monday, Wednesday",2.7,P,MTH301,10:00,11:20,"Tuesday, Friday",2,P,CHE301,12:00,14:50,Friday,3,P,BIO201,16:00,17:20,"Wednesday, Friday",3.7,P,2.85
+018,Spring 2017,Evans,Christopher,FRN110,14:00,15:20,Wednesday,2.3,P,BIO310,12:00,13:30,"Monday, Wednesday",2.3,P,CHE310,18:00,19:30,"Monday, Wednesday",2.3,P,BIO210,10:00,11:30,"Monday, Wednesday",2.7,P,2.40
+019,Fall 2016,Coolidge,Gina,HIS101,8:00,9:20,"Monday, Friday",4,P,MTH301,10:00,11:20,"Tuesday, Friday",2,P,ACC301,13:00,14:20,"Tuesday, Thursday",3,P,ECO201,16:00,18:50,Friday,3,P,3.00
+019,Spring 2017,Coolidge,Gina,FRN210,16:00,17:20,Monday,2.7,P,ECO310,18:00,19:30,"Tuesday, Thursday",3,P,ACC310,12:00,13:30,"Tuesday, Thursday",3,P,MTH110,8:00,9:30,"Monday, Wednesday",3,P,2.93
+020,Fall 2016,Stewart,Neil,PHY101,8:00,10:50,Wednesday,2.7,P,CHE101,8:00,10:50,Friday,2.7,P,FRN101,14:00,15:20,"Tuesday, Thursday",2.7,P,BIO101,15:00,16:20,"Wednesday, Friday",3,P,2.78
+020,Spring 2017,Stewart,Neil,PHY110,10:00,12:30,"Tuesday, Thursday",2.7,P,PHY210,13:00,15:00,"Tuesday, Thursday",2.7,P,MTH110,8:00,9:30,"Monday, Wednesday",3,P,MTH210,8:00,9:30,"Tuesday, Thursday",3,P,2.85
+021,Fall 2016,Durham,Joshua,ECO301,7:00,9:50,Friday,2.7,P,MTH301,10:00,11:20,"Tuesday, Friday",3,P,PLS301,13:00,14:20,"Wednesday, Friday",3.7,P,ECO201,16:00,18:50,Friday,3,A,3.10
+021,Spring 2017,Durham,Joshua,ECO310,18:00,19:30,"Tuesday, Thursday",3,P,ACC310,12:00,13:30,"Tuesday, Thursday",3,P,MTH310,20:00,21:30,"Tuesday, Thursday",3,P,ACC210,10:00,11:30,"Tuesday, Thursday",3,P,3.00
+022,Fall 2016,Rogers,Sam,HIS101,8:00,9:20,"Monday, Friday",4,P,MTH101,8:00,9:20,"Tuesday, Friday",3,A,ART301,10:00,11:20,"Monday, Wednesday",4,P,CS301,10:00,11:20,"Tuesday, Thursday",2.7,P,3.43
+022,Spring 2017,Rogers,Sam,ART232,18:00,20:30,Wednesday,3.3,P,ART390,18:00,20:30,Wednesday,3,P,CS310,17:30,21:30,Friday,3,P,MTH210,8:00,9:30,"Tuesday, Thursday",3,P,3.08
+023,Fall 2016,Ward,Cassius,MTH101,8:00,9:20,"Tuesday, Friday",3,P,PLS101,11:00,12:20,"Wednesday, Friday",3.3,P,ECO101,14:00,16:50,Friday,2.7,P,PSY101,14:00,16:50,Thursday,3.7,P,3.18
+023,Spring 2017,Ward,Cassius,PSY110,12:00,13:20,"Monday, Wednesday",2.7,P,PSY210,13:30,14:50,"Monday, Wednesday",2.7,P,MTH210,8:00,9:30,"Tuesday, Thursday",2.7,P,PLS110,18:00,20:00,"Monday, Wednesday",2.7,P,2.70
+024,Fall 2016,Orsini,Hannah,ECO301,7:00,9:50,Friday,2.7,P,MTH301,10:00,11:20,"Tuesday, Friday",2,P,PLS301,13:00,14:20,"Wednesday, Friday",3,A,ECO201,16:00,18:50,Friday,2.7,P,2.60
+024,Spring 2017,Orsini,Hannah,ECO310,18:00,19:30,"Tuesday, Thursday",3.7,P,ACC310,12:00,13:30,"Tuesday, Thursday",3.7,P,MTH310,20:00,21:30,"Tuesday, Thursday",3.3,P,MTH210,8:00,9:30,"Tuesday, Thursday",3.3,P,3.50
+025,Fall 2016,Torres,Hector,PHY101,8:00,10:50,Wednesday,4,P,CHE101,8:00,10:50,Friday,3.7,P,FRN101,14:00,15:20,"Tuesday, Thursday",4,P,BIO101,15:00,16:20,"Wednesday, Friday",4,P,3.93
+025,Spring 2017,Torres,Hector,PHY210,13:00,15:00,"Tuesday, Thursday",3.7,P,PHY310,15:30,18:00,"Tuesday, Thursday",4,P,MTH210,8:00,9:30,"Tuesday, Thursday",4,P,MTH310,20:00,21:30,"Tuesday, Thursday",4,P,3.93
+026,Fall 2016,Campbell,Adriana,MSC201,8:00,10:50,Tuesday,3.3,P,HIS301,10:00,11:20,"Monday, Friday",3,P,FRN301,16:00,17:20,"Tuesday, Thursday",3,P,ENG201,15:00,16:20,"Monday, Wednesday",3.3,P,3.15
+026,Spring 2017,Campbell,Adriana,MSC390,18:00,20:30,Friday,3.3,P,FRN390,18:00,20:30,Monday,3,P,ENG165,9:30,11:00,"Tuesday, Thursday",3.3,P,ENG232,14:30,16:00,"Monday, Friday",3.3,P,3.23
+027,Fall 2016,Washington,Erik,CHE101,8:00,10:50,Friday,3.7,P,COM301,13:00,14:20,"Monday, Wednesday",4,P,ENG301,16:00,17:20,"Monday, Wednesday",3,P,FRN201,15:00,16:20,"Tuesday, Thursday",4,P,3.68
+027,Spring 2017,Washington,Erik,BIO310,12:00,13:30,"Monday, Wednesday",3.3,P,CHE210,16:00,17:30,"Monday, Wednesday",3.3,P,CHE310,18:00,19:30,"Monday, Wednesday",3.3,P,MSC232,11:00,14:00,Thursday,3.7,P,3.40
+028,Fall 2016,Hughes,Ezra,CHE101,8:00,10:50,Friday,0,A,COM201,12:00,13:20,"Monday, Wednesday",2,A,ENG201,15:00,16:20,"Monday, Wednesday",1.7,A,FRN101,14:00,15:20,"Tuesday, Thursday",0,A,0.93
+028,Spring 2017,Hughes,Ezra,COM210,11:00,13:50,Wednesday,1.3,P,COM310,11:00,13:50,Friday,1.3,P,ENG165,9:30,11:00,"Tuesday, Thursday",1.7,P,ART210,11:00,14:00,Monday,1.3,P,1.40
+029,Fall 2016,Hamilton,Francis,HIS101,8:00,9:20,"Monday, Friday",3.3,P,MTH301,10:00,11:20,"Tuesday, Friday",2,P,ACC301,13:00,14:20,"Tuesday, Thursday",3,A,ECO201,16:00,18:50,Friday,4,P,3.08
+029,Spring 2017,Hamilton,Francis,ECO310,18:00,19:30,"Tuesday, Thursday",3,P,ACC310,12:00,13:30,"Tuesday, Thursday",3,P,MTH310,20:00,21:30,"Tuesday, Thursday",3,P,MTH210,8:00,9:30,"Tuesday, Thursday",3.3,P,3.08
+030,Fall 2016,Ford,Sabine,ART101,8:00,9:20,"Monday, Wednesday",3.7,A,MTH101,8:00,9:20,"Tuesday, Friday",3.3,A,CS301,10:00,11:20,"Tuesday, Thursday",3.7,P,COM201,12:00,13:20,"Monday, Wednesday",3,A,3.43
+030,Spring 2017,Ford,Sabine,CS310,17:30,21:30,Friday,3.3,P,COM310,11:00,13:50,Friday,3.3,P,MTH210,8:00,9:30,"Tuesday, Thursday",3,P,CS210,17:30,21:00,Wednesday,3.3,P,3.23
+031,Fall 2016,Holt,David,PHY101,8:00,10:50,Wednesday,3.3,P,CHE101,8:00,10:50,Friday,3.7,A,FRN101,14:00,15:20,"Tuesday, Thursday",3.7,P,BIO101,15:00,16:20,"Wednesday, Friday",3.7,P,3.60
+031,Spring 2017,Holt,David,PHY210,13:00,15:00,"Tuesday, Thursday",3.7,P,PHY310,15:30,18:00,"Tuesday, Thursday",3.7,P,MTH210,8:00,9:30,"Tuesday, Thursday",3.7,P,MTH310,20:00,21:30,"Tuesday, Thursday",3.3,P,3.60
+032,Fall 2016,Adams,Jonathan,ART301,15:00,16:20,"Wednesday, Friday",4,A,COM201,12:00,13:20,"Monday, Wednesday",4,P,ENG201,15:00,16:20,"Monday, Wednesday",3.7,P,FRN301,16:00,17:20,"Tuesday, Thursday",3,A,3.68
+032,Spring 2017,Adams,Jonathan,ART232,18:00,20:30,Wednesday,3.7,P,MSC210,11:00,14:00,Tuesday,3.7,P,HIS232,14:30,16:00,Wednesday,3.7,P,ART390,18:00,20:30,Wednesday,3.7,P,3.70
+033,Fall 2016,Sanders,Florence,ART101,8:00,9:20,"Monday, Wednesday",3.7,A,MTH101,8:00,9:20,"Tuesday, Friday",3.3,A,CS301,10:00,11:20,"Tuesday, Thursday",3.7,A,COM201,12:00,13:20,"Monday, Wednesday",3,P,3.43
+033,Spring 2017,Sanders,Florence,MTH110,8:00,9:30,"Monday, Wednesday",2.7,P,MTH210,8:00,9:30,"Tuesday, Thursday",2.7,P,CS210,17:30,21:00,Wednesday,2.7,P,CS310,17:30,21:30,Friday,2.7,P,2.70
+034,Fall 2016,Tucker,Mary,ART101,8:00,9:20,"Monday, Wednesday",3.3,P,MTH301,10:00,11:20,"Tuesday, Friday",2,P,CHE301,12:00,14:50,Friday,3,P,BIO201,16:00,17:20,"Wednesday, Friday",4,P,3.08
+034,Spring 2017,Tucker,Mary,BIO110,8:00,9:30,"Monday, Wednesday",2.7,P,BIO210,10:00,11:30,"Monday, Wednesday",2.7,P,CHE110,14:00,15:30,"Monday, Wednesday",3,P,CHE210,16:00,17:30,"Monday, Wednesday",2.7,P,2.78
+035,Fall 2016,Hicks,Jacob,MTH101,8:00,9:20,"Tuesday, Friday",0,P,PLS101,11:00,12:20,"Wednesday, Friday",0,P,ECO101,14:00,16:50,Friday,0,P,PSY101,14:00,16:50,Thursday,2,P,0.50
+035,Spring 2017,Hicks,Jacob,BIO110,8:00,9:30,"Monday, Wednesday",1,P,BIO210,10:00,11:30,"Monday, Wednesday",1,P,CHE110,14:00,15:30,"Monday, Wednesday",1,P,CHE210,16:00,17:30,"Monday, Wednesday",0.7,P,0.93

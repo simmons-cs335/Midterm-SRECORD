@@ -1,0 +1,61 @@
+Faculty_ID,Name,Courses,Email,Phone,Username
+190001,Ada Gauss,"MTH201
+",ada.gauss@school.edu,(760) 862-8659,gaussa
+190002,Adam Max,ECO201,adam.max@school.edu,(219) 617-4132,maxa
+190003,Albert Hawking,PHY201,albert.hawking@school.edu,(865) 384-0406,hawkinga
+190004,Alexis Xenophon,HIS301,alexis.xenophon@school.edu,(940) 355-4385,xenophona
+190005,Anna Racki,HIS201,anna.racki@school.edu,(632) 617-4132,rackia
+190006,Barrack Quincy,COM201,barrack.quincy@school.edu,(998) 274-0446,quincyb
+190007,"Beethoven Ludwig
+",MSC210,beethoven.ludwig@school.edu,(897) 737-1922,ludwigb
+190008,Bill Zuckerberg,CS101,bill.zuckerberg@school.edu,(307) 379-4958,zuckerbergb
+190009,"Brodeur Esteban
+",FRN390,brodeur.esteban@school.edu,(252) 985-2685,estebanb
+190010,Carl Boolean,MATH101,carl.boolean@school.edu,(719) 848-7593,booleanc
+190011,Dalton Curie,CHE301,dalton.curie@school.edu,(754) 683-7057,daltonc
+190012,Ed Bundy,PSY101,ed.bundy@school.edu,(201) 996-2883,bundye
+190013,Emily Doe,ACC101,emily.doe@school.edu,(572) 889-6620,doee
+190014,Gregor Carson,BIO301,gregor.carson@school.edu,(315) 206-4194,gregorc
+190015,Ibn Herodotus,HIS101,ibn.herodotus@school.edu,(979) 645-2960,ibng
+190016,Jack Manson,PSY201,jack.manson@school.edu,(579) 842-7247,mansonj
+190017,Jane Fitzgerald,ENG301,jane.fitzgerald@school.edu,(296) 422-0855,fitzgeraldj
+190018,"Joan Descartes
+",FRN101,joan.descartes@school.edu,(701) 899-5836,descartesj
+190019,John Confucius,PLS201,john.confucius@school.edu,(322) 484-5082,confuciusj
+190020,"John King
+",COM301,john.king@school.edu,(543) 365-8172,kingj
+190021,Jones Marie,HIS232,jones.marie@school.edu,(691) 204-7753,mariej
+190022,Josephine Vuu,ACC201,josephine.vuu@school.edu,(407) 776-0754,vuuj
+190023,Karl Smith,ECO101,karl.smith@school.edu,(956) 755-2810,smithk
+190024,Kennedy Thomas,COM101,kennedy.thomas@school.edu,(215) 337-6364,thomask
+190025,King Steven,ENG390,king.steven@school.edu,(978) 526-4489,stevenk
+190026,Leo Kant,PLS301,leo.kant@school.edu,(418) 618-8978,kantl
+190027,Louis Darwin,BIO201,louis.darwin@school.edu,(656) 239-9424,darwinl
+190028,Louis Robespierre,FRN201,louis.robespierre@school.edu,(744) 286-2257,robespierrel
+190029,Ludwig Brahms,MSC201,ludwig.brahms@school.edu,(731) 758-4209,brahmsl
+190030,Marie Dumas ,FRN301,marie.dumas@school.edu,(463) 738-5446,dumasm
+190031,Marie Piere ,CHE101,marie.piere@school.edu,(803) 653-3282,pierem
+190032,Mark Job,CS301,mark.job@school.edu,(660) 509-7676,jobm
+190033,Mark Nash,ECO301,mark.nash@school.edu,(990) 502-3215,nashm
+190034,Maurice Vivaldi,MSC301,maurice.vivaldi@school.edu,(748) 668-8119,vivaldim
+190035,Mendel Pasteur,"BIO101; CHE201
+",mendel.pasteur@school.edu,(256) 470-2067,pasteurm
+190036,"Monet Gogh
+",ART101; ART201; ART232; ART390,monet.gogh@school.edu,(964) 764-4348,goghm
+190037,"Nikola Einstein
+",PHY101,nikola.einstein@school.edu,(812) 568-4983,einsteinn
+190038,Omar Pascal,MTH301,omar.pascal@school.edu,(481) 286-7411,pascalo
+190039,"Prichet Carol
+",ENG165; ENG232,prichet.carol@school.edu,(499) 624-3871,carolp
+190040,Richard Gein,PSY301,richard.gein@school.edu,(927) 383-1813,geinr
+190041,Roberts Bob,HIS390,roberts.bob@school.edu,(612) 256-3678,bobr
+190042,Scarlett Luigini,ACC301,scarlett.luigini@school.edu,(937) 710-6555,luiginis
+190043,Scott Shakespeare,ENG201,scott.shakespeare@school.edu,(781) 485-2935,shakespeares
+190044,Stephen Tesla,PHY301,stephen.tesla@school.edu,(799) 230-6501,teslas
+190045,Steve Gate,CS201,steve.gate@school.edu,(984) 284-5424,gates
+190046,"Van Pablo
+",ART301,van.pablo@school.edu,(575) 349-3146,pablov
+190047,Vladimir Plato,PLS101,vladimir.plato@school.edu,(392) 852-7324,platov
+190048,William Austen,ENG101,william.austen@school.edu,(939) 636-7154,austenw
+190049,Williams John,MSC232; MSC390,williams.john@school.edu,(429) 245-4305,johnw
+190050,Wolfgang Bach,MSC101,wolfgang.bach@school.edu,(402) 534-6965,bachw
