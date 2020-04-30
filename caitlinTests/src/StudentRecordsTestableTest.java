@@ -3,6 +3,12 @@ import org.junit.jupiter.api.BeforeEach;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/*
+*   Tests for StudentRecords
+*   cs335 final
+*   @author Caitlin Anderson
+*/
+
 class StudentRecordsTestableTest {
 
     private StudentRecordsTestable stdRec;
